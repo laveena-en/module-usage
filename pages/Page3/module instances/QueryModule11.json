@@ -6,14 +6,12 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "inputs": {
-      "limit": "4"
-    },
+    "inputs": {},
     "moduleInputs": {
       "lonwmntrbg": {}
     },
     "name": "QueryModule11",
     "pageId": "Page3",
-    "version": "0.0.2"
+    "version": "0.0.5"
   }
 }

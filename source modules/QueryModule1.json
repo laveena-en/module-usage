@@ -1,7 +1,7 @@
 {
   "moduleName": "QueryModule1",
   "moduleUUID": "78a2e5ff-c19e-4b7b-9454-bd7c3a8cf533",
-  "packageName": "Untitled Package 1",
+  "packageName": "Package for modules usage",
   "packageUUID": "1d68da84-3bd2-43b6-8418-c4efaaae6af0",
-  "version": "0.0.2"
+  "version": "0.0.5"
 }
