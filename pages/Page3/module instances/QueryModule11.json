@@ -7,7 +7,7 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "limit": "5"
+      "limit": "4"
     },
     "moduleInputs": {
       "lonwmntrbg": {}
